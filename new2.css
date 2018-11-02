@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.sec1 {
+  min-height: 600px;
+  background-image: url("komp.jpg");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+.sec1 .container {
+  margin-top: 90px;
+  color: white;
+}
+.sec1 .container button {
+  width: 200px;
+  height: 60px;
+  border-radius: 40px;
+  border-style: none;
+  background-color: #F05F40;
+  margin-top: 40px;
+  color: white;
+  font-size: 15px;
+}
+.sec1 .container p {
+  width: 50%;
+  font-size: 22px;
+  margin: auto;
+  margin-top: 30px;
+  opacity: .7;
+}
+.sec1 .line {
+  width: 50px;
+  border-bottom: 3px #F05F40 solid;
+  margin: auto;
+  margin-top: 40px;
+}
+.sec1 .h1 {
+  font-size: 60px;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 25px;
+}
+nav h2 {
+  font-size: 25px;
+  color: white;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+nav ul li {
+  list-style-type: none;
+  margin-left: 20px;
+  color: white;
+  font-size: 14px;
+}
+
+.sec2 {
+  height: 330px;
+  background-color: #F05F40;
+  text-align: center;
+  padding-top: 120px;
+}
+.sec2 #alt {
+  width: 52%;
+  margin: auto;
+  color: white;
+}
+.sec2 #alt h2 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.sec2 #alt hr {
+  width: 5%;
+  margin: auto;
+  color: white;
+  font-size: 2px;
+  margin-bottom: 30px;
+}
+.sec2 #alt p {
+  font-size: 20px;
+  opacity: .8;
+}
+.sec2 #alt button {
+  width: 180px;
+  height: 55px;
+  margin-top: 30px;
+  background-color: white;
+  border-style: none;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.sec3 {
+  height: 500px;
+  text-align: center;
+  padding-top: 130px;
+}
+.sec3 h2 {
+  font-size: 33px;
+}
+.sec3 #line {
+  width: 3%;
+  border-bottom: 3px #F05F40 solid;
+  margin: auto;
+}
+
+/*# sourceMappingURL=new2.css.map */
